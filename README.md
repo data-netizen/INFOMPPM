@@ -13,7 +13,9 @@ Recommender systems are an integral part of our daily media consumption: they co
 In the seminar session, we willfirst discuss how (public) values connect to recommender systems. You will then need to think about the data you would need to build a recommender system and how that poses opportunities but also risks for different values. We then turn to the basics of building a recommender in Python:
 - Non-personalised recommendations (ratings, seeded, confidence, support)
 - Implicit ratings
-- Running StreamlitThe activities aim for testing your knowledge about the readings, getting your code book running, extracting features from existing databases, and practising with core concepts.
+- Running Streamlit
+
+The activities aim for testing your knowledge about the readings, getting your code book running, extracting features from existing databases, and practising with core concepts.
 
 ---
 
